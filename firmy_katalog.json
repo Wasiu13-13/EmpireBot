@@ -1,0 +1,1244 @@
+[
+  {
+    "id": 1,
+    "investment": "Kopalnia węgla kamiennego",
+    "recipe": "",
+    "product": "Węgiel",
+    "demand": 0,
+    "investment_price": 7000,
+    "catalog_price": 150
+  },
+  {
+    "id": 2,
+    "investment": "Kopalnia węgla brunatnego",
+    "recipe": "",
+    "product": "Węgiel brunatny",
+    "demand": 0,
+    "investment_price": 5000,
+    "catalog_price": 120
+  },
+  {
+    "id": 3,
+    "investment": "Kopalnia rudy żelaza",
+    "recipe": "",
+    "product": "Ruda żelaza",
+    "demand": 0,
+    "investment_price": 9000,
+    "catalog_price": 250
+  },
+  {
+    "id": 4,
+    "investment": "Kopalnia rudy miedzi",
+    "recipe": "",
+    "product": "Ruda miedzi",
+    "demand": 0,
+    "investment_price": 9000,
+    "catalog_price": 250
+  },
+  {
+    "id": 5,
+    "investment": "Kopalnia boksytu",
+    "recipe": "",
+    "product": "Boksyt",
+    "demand": 0,
+    "investment_price": 8000,
+    "catalog_price": 220
+  },
+  {
+    "id": 6,
+    "investment": "Kopalnia cynku",
+    "recipe": "",
+    "product": "Ruda cynku",
+    "demand": 0,
+    "investment_price": 6500,
+    "catalog_price": 180
+  },
+  {
+    "id": 7,
+    "investment": "Kopalnia ołowiu",
+    "recipe": "",
+    "product": "Ruda ołowiu",
+    "demand": 0,
+    "investment_price": 6500,
+    "catalog_price": 180
+  },
+  {
+    "id": 8,
+    "investment": "Kopalnia niklu",
+    "recipe": "",
+    "product": "Ruda niklu",
+    "demand": 0,
+    "investment_price": 8000,
+    "catalog_price": 220
+  },
+  {
+    "id": 9,
+    "investment": "Kopalnia chromu",
+    "recipe": "",
+    "product": "Ruda chromu",
+    "demand": 0,
+    "investment_price": 8000,
+    "catalog_price": 220
+  },
+  {
+    "id": 10,
+    "investment": "Kopalnia manganu",
+    "recipe": "",
+    "product": "Ruda manganu",
+    "demand": 0,
+    "investment_price": 7000,
+    "catalog_price": 180
+  },
+  {
+    "id": 11,
+    "investment": "Kopalnia kobaltu",
+    "recipe": "",
+    "product": "Kobalt",
+    "demand": 0,
+    "investment_price": 9000,
+    "catalog_price": 250
+  },
+  {
+    "id": 12,
+    "investment": "Kopalnia litu",
+    "recipe": "",
+    "product": "Lit",
+    "demand": 0,
+    "investment_price": 9000,
+    "catalog_price": 250
+  },
+  {
+    "id": 13,
+    "investment": "Kopalnia grafitu",
+    "recipe": "",
+    "product": "Grafit",
+    "demand": 0,
+    "investment_price": 7000,
+    "catalog_price": 200
+  },
+  {
+    "id": 14,
+    "investment": "Kopalnia uranu",
+    "recipe": "",
+    "product": "Uran",
+    "demand": 0,
+    "investment_price": 14000,
+    "catalog_price": 500
+  },
+  {
+    "id": 15,
+    "investment": "Kopalnia złota",
+    "recipe": "",
+    "product": "Złoto",
+    "demand": 0,
+    "investment_price": 12000,
+    "catalog_price": 450
+  },
+  {
+    "id": 16,
+    "investment": "Kopalnia srebra",
+    "recipe": "",
+    "product": "Srebro",
+    "demand": 0,
+    "investment_price": 10000,
+    "catalog_price": 350
+  },
+  {
+    "id": 17,
+    "investment": "Kopalnia platyny",
+    "recipe": "",
+    "product": "Platyna",
+    "demand": 0,
+    "investment_price": 15000,
+    "catalog_price": 500
+  },
+  {
+    "id": 18,
+    "investment": "Kopalnia fosforytów",
+    "recipe": "",
+    "product": "Fosforyty",
+    "demand": 0,
+    "investment_price": 7000,
+    "catalog_price": 180
+  },
+  {
+    "id": 19,
+    "investment": "Kopalnia soli",
+    "recipe": "",
+    "product": "Sól",
+    "demand": 0,
+    "investment_price": 5000,
+    "catalog_price": 120
+  },
+  {
+    "id": 20,
+    "investment": "Kamieniołom wapienia",
+    "recipe": "",
+    "product": "Wapień",
+    "demand": 0,
+    "investment_price": 7000,
+    "catalog_price": 180
+  },
+  {
+    "id": 21,
+    "investment": "Kopalnia gipsu",
+    "recipe": "",
+    "product": "Gips",
+    "demand": 0,
+    "investment_price": 5000,
+    "catalog_price": 120
+  },
+  {
+    "id": 22,
+    "investment": "Kopalnia gliny",
+    "recipe": "",
+    "product": "Glina",
+    "demand": 0,
+    "investment_price": 5000,
+    "catalog_price": 120
+  },
+  {
+    "id": 23,
+    "investment": "Kopalnia piasku",
+    "recipe": "",
+    "product": "Piasek",
+    "demand": 0,
+    "investment_price": 7000,
+    "catalog_price": 180
+  },
+  {
+    "id": 24,
+    "investment": "Żwirownia",
+    "recipe": "",
+    "product": "Żwir",
+    "demand": 0,
+    "investment_price": 7000,
+    "catalog_price": 180
+  },
+  {
+    "id": 25,
+    "investment": "Platforma wiertnicza",
+    "recipe": "",
+    "product": "Ropa naftowa i gaz",
+    "demand": 0,
+    "investment_price": 16000,
+    "catalog_price": 400
+  },
+  {
+    "id": 26,
+    "investment": "Huta żelaza",
+    "recipe": "Ruda żelaza #3 + węgiel #1",
+    "product": "Żelazo",
+    "demand": 13,
+    "investment_price": 28000,
+    "catalog_price": 140
+  },
+  {
+    "id": 27,
+    "investment": "Huta stali",
+    "recipe": "Żelazo #26 + węgiel #1",
+    "product": "Stal",
+    "demand": 13,
+    "investment_price": 28000,
+    "catalog_price": 140
+  },
+  {
+    "id": 28,
+    "investment": "Huta miedzi",
+    "recipe": "Ruda miedzi #4",
+    "product": "Miedź",
+    "demand": 12,
+    "investment_price": 25000,
+    "catalog_price": 150
+  },
+  {
+    "id": 29,
+    "investment": "Huta aluminium",
+    "recipe": "Boksyt #5",
+    "product": "Aluminium",
+    "demand": 10,
+    "investment_price": 24000,
+    "catalog_price": 180
+  },
+  {
+    "id": 30,
+    "investment": "Huta cynku",
+    "recipe": "Ruda cynku #6",
+    "product": "Cynk",
+    "demand": 7,
+    "investment_price": 21000,
+    "catalog_price": 260
+  },
+  {
+    "id": 31,
+    "investment": "Huta ołowiu",
+    "recipe": "Ruda ołowiu #7",
+    "product": "Ołów",
+    "demand": 6,
+    "investment_price": 21000,
+    "catalog_price": 300
+  },
+  {
+    "id": 32,
+    "investment": "Zakład niklu",
+    "recipe": "Ruda niklu #8",
+    "product": "Nikiel",
+    "demand": 7,
+    "investment_price": 21000,
+    "catalog_price": 260
+  },
+  {
+    "id": 33,
+    "investment": "Zakład chromu",
+    "recipe": "Ruda chromu #9",
+    "product": "Chrom",
+    "demand": 5,
+    "investment_price": 20000,
+    "catalog_price": 360
+  },
+  {
+    "id": 34,
+    "investment": "Zakład manganu",
+    "recipe": "Ruda manganu #10",
+    "product": "Mangan",
+    "demand": 5,
+    "investment_price": 20000,
+    "catalog_price": 360
+  },
+  {
+    "id": 35,
+    "investment": "Zakład kobaltu",
+    "recipe": "Kobalt #11",
+    "product": "Kobalt oczyszczony",
+    "demand": 4,
+    "investment_price": 19000,
+    "catalog_price": 450
+  },
+  {
+    "id": 36,
+    "investment": "Zakład litu",
+    "recipe": "Lit #12",
+    "product": "Lit przemysłowy",
+    "demand": 6,
+    "investment_price": 21000,
+    "catalog_price": 300
+  },
+  {
+    "id": 37,
+    "investment": "Zakład grafitu",
+    "recipe": "Grafit #13",
+    "product": "Grafit przemysłowy",
+    "demand": 6,
+    "investment_price": 21000,
+    "catalog_price": 300
+  },
+  {
+    "id": 38,
+    "investment": "Rafineria ropy",
+    "recipe": "Ropa #25",
+    "product": "Paliwa",
+    "demand": 13,
+    "investment_price": 26000,
+    "catalog_price": 140
+  },
+  {
+    "id": 39,
+    "investment": "Petrochemia",
+    "recipe": "Ropa #25",
+    "product": "Chemikalia",
+    "demand": 10,
+    "investment_price": 24000,
+    "catalog_price": 180
+  },
+  {
+    "id": 40,
+    "investment": "Zakład tworzyw sztucznych",
+    "recipe": "Ropa #25",
+    "product": "Plastik",
+    "demand": 13,
+    "investment_price": 26000,
+    "catalog_price": 140
+  },
+  {
+    "id": 41,
+    "investment": "Zakład gumy syntetycznej",
+    "recipe": "Ropa #25",
+    "product": "Guma syntetyczna",
+    "demand": 9,
+    "investment_price": 23000,
+    "catalog_price": 200
+  },
+  {
+    "id": 42,
+    "investment": "Zakład włókien syntetycznych",
+    "recipe": "Ropa #25",
+    "product": "Włókna syntetyczne",
+    "demand": 7,
+    "investment_price": 21000,
+    "catalog_price": 260
+  },
+  {
+    "id": 43,
+    "investment": "Koksownia",
+    "recipe": "Węgiel #1",
+    "product": "Koks",
+    "demand": 8,
+    "investment_price": 22000,
+    "catalog_price": 220
+  },
+  {
+    "id": 44,
+    "investment": "Cementownia",
+    "recipe": "Wapień #20 + gips #21",
+    "product": "Cement",
+    "demand": 13,
+    "investment_price": 28000,
+    "catalog_price": 140
+  },
+  {
+    "id": 45,
+    "investment": "Cegielnia",
+    "recipe": "Glina #22",
+    "product": "Cegły",
+    "demand": 12,
+    "investment_price": 25000,
+    "catalog_price": 150
+  },
+  {
+    "id": 46,
+    "investment": "Huta szkła",
+    "recipe": "Piasek #23",
+    "product": "Szkło",
+    "demand": 11,
+    "investment_price": 25000,
+    "catalog_price": 160
+  },
+  {
+    "id": 47,
+    "investment": "Zakład kruszyw",
+    "recipe": "Żwir #24",
+    "product": "Kruszywo",
+    "demand": 13,
+    "investment_price": 26000,
+    "catalog_price": 140
+  },
+  {
+    "id": 48,
+    "investment": "Zakład wapna",
+    "recipe": "Wapień #20",
+    "product": "Wapno",
+    "demand": 7,
+    "investment_price": 21000,
+    "catalog_price": 260
+  },
+  {
+    "id": 49,
+    "investment": "Zakład nawozów fosforowych",
+    "recipe": "Fosforyty #18",
+    "product": "Nawozy",
+    "demand": 9,
+    "investment_price": 23000,
+    "catalog_price": 200
+  },
+  {
+    "id": 50,
+    "investment": "Zakład soli przemysłowej",
+    "recipe": "Sól #19",
+    "product": "Sól przemysłowa",
+    "demand": 5,
+    "investment_price": 20000,
+    "catalog_price": 360
+  },
+  {
+    "id": 51,
+    "investment": "Zakład materiałów ogniotrwałych",
+    "recipe": "Glina #22 + minerały #133",
+    "product": "Materiały ogniotrwałe",
+    "demand": 5,
+    "investment_price": 22000,
+    "catalog_price": 360
+  },
+  {
+    "id": 52,
+    "investment": "Zakład stopów metali",
+    "recipe": "Żelazo #26 + miedź #28 + aluminium #29",
+    "product": "Stopy metali",
+    "demand": 7,
+    "investment_price": 25000,
+    "catalog_price": 260
+  },
+  {
+    "id": 53,
+    "investment": "Walcownia aluminium",
+    "recipe": "Aluminium #29",
+    "product": "Blacha aluminiowa",
+    "demand": 9,
+    "investment_price": 23000,
+    "catalog_price": 200
+  },
+  {
+    "id": 54,
+    "investment": "Walcownia stali",
+    "recipe": "Stal #27",
+    "product": "Blacha stalowa",
+    "demand": 12,
+    "investment_price": 25000,
+    "catalog_price": 150
+  },
+  {
+    "id": 55,
+    "investment": "Zakład profili stalowych",
+    "recipe": "Stal #27",
+    "product": "Profile stalowe",
+    "demand": 8,
+    "investment_price": 22000,
+    "catalog_price": 220
+  },
+  {
+    "id": 56,
+    "investment": "Zakład rur stalowych",
+    "recipe": "Stal #27",
+    "product": "Rury stalowe",
+    "demand": 8,
+    "investment_price": 22000,
+    "catalog_price": 220
+  },
+  {
+    "id": 57,
+    "investment": "Zakład drutu",
+    "recipe": "Miedź #28 + aluminium #29",
+    "product": "Drut",
+    "demand": 9,
+    "investment_price": 25000,
+    "catalog_price": 200
+  },
+  {
+    "id": 58,
+    "investment": "Zakład kabli podstawowych",
+    "recipe": "Miedź #28 + plastik #40",
+    "product": "Kable",
+    "demand": 10,
+    "investment_price": 26000,
+    "catalog_price": 180
+  },
+  {
+    "id": 59,
+    "investment": "Zakład szkła technicznego",
+    "recipe": "Piasek #23 + dodatki mineralne #133",
+    "product": "Szkło techniczne",
+    "demand": 6,
+    "investment_price": 22000,
+    "catalog_price": 300
+  },
+  {
+    "id": 61,
+    "investment": "Fabryka elementów metalowych",
+    "recipe": "Stal #27 + aluminium #29",
+    "product": "Elementy metalowe",
+    "demand": 10,
+    "investment_price": 39000,
+    "catalog_price": 240
+  },
+  {
+    "id": 62,
+    "investment": "Fabryka śrub i nakrętek",
+    "recipe": "Stal #27",
+    "product": "Śruby i nakrętki",
+    "demand": 12,
+    "investment_price": 40000,
+    "catalog_price": 200
+  },
+  {
+    "id": 63,
+    "investment": "Fabryka łożysk",
+    "recipe": "Stal #27 + chrom #33",
+    "product": "Łożyska",
+    "demand": 8,
+    "investment_price": 38000,
+    "catalog_price": 300
+  },
+  {
+    "id": 64,
+    "investment": "Fabryka sprężyn",
+    "recipe": "Stal #27",
+    "product": "Sprężyny",
+    "demand": 9,
+    "investment_price": 37000,
+    "catalog_price": 270
+  },
+  {
+    "id": 65,
+    "investment": "Fabryka przekładni",
+    "recipe": "Stal #27 + elementy metalowe #61",
+    "product": "Przekładnie",
+    "demand": 8,
+    "investment_price": 38000,
+    "catalog_price": 300
+  },
+  {
+    "id": 66,
+    "investment": "Fabryka wałów",
+    "recipe": "Stal #27 + stopy metali #52",
+    "product": "Wały",
+    "demand": 6,
+    "investment_price": 36000,
+    "catalog_price": 400
+  },
+  {
+    "id": 67,
+    "investment": "Fabryka ram",
+    "recipe": "Stal #27 + aluminium #29",
+    "product": "Ramy",
+    "demand": 7,
+    "investment_price": 37000,
+    "catalog_price": 340
+  },
+  {
+    "id": 68,
+    "investment": "Fabryka konstrukcji metalowych",
+    "recipe": "Stal #27 + aluminium #29",
+    "product": "Konstrukcje metalowe",
+    "demand": 5,
+    "investment_price": 35000,
+    "catalog_price": 480
+  },
+  {
+    "id": 69,
+    "investment": "Fabryka silników spalinowych",
+    "recipe": "Stal #27 + aluminium #29 + miedź #28 + elementy metalowe #61",
+    "product": "Silniki",
+    "demand": 4,
+    "investment_price": 37000,
+    "catalog_price": 500
+  },
+  {
+    "id": 70,
+    "investment": "Fabryka silników elektrycznych",
+    "recipe": "Miedź #28 + stal #27 + magnesy #135",
+    "product": "Silniki elektryczne",
+    "demand": 5,
+    "investment_price": 37000,
+    "catalog_price": 480
+  },
+  {
+    "id": 71,
+    "investment": "Fabryka pomp",
+    "recipe": "Stal #27 + miedź #28 + guma #41",
+    "product": "Pompy",
+    "demand": 6,
+    "investment_price": 38000,
+    "catalog_price": 400
+  },
+  {
+    "id": 72,
+    "investment": "Fabryka zaworów",
+    "recipe": "Stal #27 + guma #41 + elementy metalowe #61",
+    "product": "Zawory",
+    "demand": 7,
+    "investment_price": 38000,
+    "catalog_price": 340
+  },
+  {
+    "id": 73,
+    "investment": "Fabryka hydrauliki",
+    "recipe": "Stal #27 + guma #41 + aluminium #29",
+    "product": "Układy hydrauliczne",
+    "demand": 5,
+    "investment_price": 37000,
+    "catalog_price": 480
+  },
+  {
+    "id": 74,
+    "investment": "Fabryka hamulców",
+    "recipe": "Stal #27 + guma #41 + miedź #28",
+    "product": "Układy hamulcowe",
+    "demand": 7,
+    "investment_price": 38000,
+    "catalog_price": 340
+  },
+  {
+    "id": 75,
+    "investment": "Fabryka zawieszenia",
+    "recipe": "Stal #27 + aluminium #29 + guma #41",
+    "product": "Elementy zawieszenia",
+    "demand": 6,
+    "investment_price": 38000,
+    "catalog_price": 400
+  },
+  {
+    "id": 76,
+    "investment": "Fabryka szyb",
+    "recipe": "Szkło #46 + chemikalia #39",
+    "product": "Szyby",
+    "demand": 10,
+    "investment_price": 39000,
+    "catalog_price": 240
+  },
+  {
+    "id": 77,
+    "investment": "Fabryka opon",
+    "recipe": "Guma syntetyczna #41 + stal #27 + chemikalia #39",
+    "product": "Opony",
+    "demand": 11,
+    "investment_price": 42000,
+    "catalog_price": 220
+  },
+  {
+    "id": 79,
+    "investment": "Fabryka przewodów",
+    "recipe": "Miedź #28 + plastik #40 + guma #41",
+    "product": "Przewody",
+    "demand": 9,
+    "investment_price": 40000,
+    "catalog_price": 270
+  },
+  {
+    "id": 80,
+    "investment": "Fabryka cewek",
+    "recipe": "Miedź #28 + plastik #40",
+    "product": "Cewki",
+    "demand": 7,
+    "investment_price": 37000,
+    "catalog_price": 340
+  },
+  {
+    "id": 81,
+    "investment": "Fabryka podzespołów elektrycznych",
+    "recipe": "Miedź #28 + aluminium #29 + plastik #40",
+    "product": "Podzespoły elektryczne",
+    "demand": 8,
+    "investment_price": 39000,
+    "catalog_price": 300
+  },
+  {
+    "id": 82,
+    "investment": "Fabryka baterii",
+    "recipe": "Lit #36 + kobalt #35 + nikiel #32 + grafit #37 + miedź #28",
+    "product": "Baterie",
+    "demand": 8,
+    "investment_price": 43000,
+    "catalog_price": 300
+  },
+  {
+    "id": 83,
+    "investment": "Fabryka akumulatorów",
+    "recipe": "Lit #36 + kobalt #35 + nikiel #32 + grafit #37 + aluminium #29",
+    "product": "Akumulatory",
+    "demand": 7,
+    "investment_price": 42000,
+    "catalog_price": 340
+  },
+  {
+    "id": 84,
+    "investment": "Fabryka półprzewodników",
+    "recipe": "Krzem #134 + miedź #28 + złoto #15 + chemikalia #39",
+    "product": "Półprzewodniki",
+    "demand": 6,
+    "investment_price": 39000,
+    "catalog_price": 400
+  },
+  {
+    "id": 85,
+    "investment": "Fabryka procesorów",
+    "recipe": "Półprzewodniki #84 + złoto #15 + miedź #28",
+    "product": "Procesory",
+    "demand": 5,
+    "investment_price": 37000,
+    "catalog_price": 480
+  },
+  {
+    "id": 86,
+    "investment": "Fabryka PCB",
+    "recipe": "Plastik #40 + miedź #28 + złoto #15 + chemikalia #39",
+    "product": "Płytki PCB",
+    "demand": 8,
+    "investment_price": 41000,
+    "catalog_price": 300
+  },
+  {
+    "id": 87,
+    "investment": "Fabryka modułów elektronicznych",
+    "recipe": "PCB #86 + półprzewodniki #84 + miedź #28 + plastik #40",
+    "product": "Moduły elektroniczne",
+    "demand": 8,
+    "investment_price": 41000,
+    "catalog_price": 300
+  },
+  {
+    "id": 88,
+    "investment": "Fabryka ekranów",
+    "recipe": "Szkło #46 + półprzewodniki #84 + miedź #28",
+    "product": "Ekrany",
+    "demand": 5,
+    "investment_price": 37000,
+    "catalog_price": 480
+  },
+  {
+    "id": 89,
+    "investment": "Fabryka zasilaczy",
+    "recipe": "Miedź #28 + aluminium #29 + podzespoły elektryczne #81 + plastik #40",
+    "product": "Zasilacze",
+    "demand": 6,
+    "investment_price": 39000,
+    "catalog_price": 400
+  },
+  {
+    "id": 90,
+    "investment": "Fabryka obudów",
+    "recipe": "Aluminium #29 + plastik #40 + stal #27",
+    "product": "Obudowy",
+    "demand": 7,
+    "investment_price": 38000,
+    "catalog_price": 340
+  },
+  {
+    "id": 91,
+    "investment": "Fabryka silników przemysłowych",
+    "recipe": "Stal #27 + miedź #28 + aluminium #29",
+    "product": "Silniki przemysłowe",
+    "demand": 5,
+    "investment_price": 37000,
+    "catalog_price": 480
+  },
+  {
+    "id": 92,
+    "investment": "Fabryka generatorów",
+    "recipe": "Stal #27 + miedź #28 + aluminium #29",
+    "product": "Generatory",
+    "demand": 5,
+    "investment_price": 37000,
+    "catalog_price": 480
+  },
+  {
+    "id": 93,
+    "investment": "Fabryka transformatorów",
+    "recipe": "Stal #27 + miedź #28 + izolacja #98",
+    "product": "Transformatory",
+    "demand": 4,
+    "investment_price": 36000,
+    "catalog_price": 500
+  },
+  {
+    "id": 94,
+    "investment": "Fabryka narzędzi",
+    "recipe": "Stal #27 + aluminium #29 + plastik #40",
+    "product": "Narzędzia",
+    "demand": 8,
+    "investment_price": 39000,
+    "catalog_price": 300
+  },
+  {
+    "id": 95,
+    "investment": "Fabryka maszyn prostych",
+    "recipe": "Stal #27 + silniki #69 + przekładnie #65",
+    "product": "Maszyny",
+    "demand": 4,
+    "investment_price": 36000,
+    "catalog_price": 500
+  },
+  {
+    "id": 96,
+    "investment": "Fabryka mebli",
+    "recipe": "Drewno #131 + stal #27 + plastik #40",
+    "product": "Meble",
+    "demand": 6,
+    "investment_price": 38000,
+    "catalog_price": 400
+  },
+  {
+    "id": 97,
+    "investment": "Fabryka opakowań",
+    "recipe": "Plastik #40 + aluminium #29 + papier #132",
+    "product": "Opakowania",
+    "demand": 11,
+    "investment_price": 42000,
+    "catalog_price": 220
+  },
+  {
+    "id": 98,
+    "investment": "Fabryka materiałów izolacyjnych",
+    "recipe": "Plastik #40 + chemikalia #39 + minerały #133",
+    "product": "Izolacja",
+    "demand": 9,
+    "investment_price": 40000,
+    "catalog_price": 270
+  },
+  {
+    "id": 99,
+    "investment": "Fabryka systemów sterowania",
+    "recipe": "Miedź #28 + plastik #40",
+    "product": "Systemy sterowania",
+    "demand": 5,
+    "investment_price": 35000,
+    "catalog_price": 480
+  },
+  {
+    "id": 100,
+    "investment": "Fabryka prostych mechanizmów",
+    "recipe": "Stal #27 + aluminium #29 + łożyska #63 + przekładnie #65 + śruby #62",
+    "product": "Proste mechanizmy",
+    "demand": 6,
+    "investment_price": 41000,
+    "catalog_price": 400
+  },
+  {
+    "id": 101,
+    "investment": "Fabryka samochodów",
+    "recipe": "Stal #27 + aluminium #29 + silniki #69 + szyby #76 + opony #77 + baterie #82 + plastik #40",
+    "product": "Samochody",
+    "demand": 4,
+    "investment_price": 77000,
+    "catalog_price": 500
+  },
+  {
+    "id": 102,
+    "investment": "Fabryka ciężarówek",
+    "recipe": "Stal #27 + aluminium #29 + silniki #69 + opony #77 + szyby #76 + hydraulika #73",
+    "product": "Ciężarówki",
+    "demand": 3,
+    "investment_price": 73000,
+    "catalog_price": 500
+  },
+  {
+    "id": 103,
+    "investment": "Fabryka autobusów",
+    "recipe": "Stal #27 + aluminium #29 + silniki #69 + szyby #76 + opony #77 + fotele #139",
+    "product": "Autobusy",
+    "demand": 2,
+    "investment_price": 71000,
+    "catalog_price": 500
+  },
+  {
+    "id": 104,
+    "investment": "Fabryka motocykli",
+    "recipe": "Stal #27 + aluminium #29 + silniki #69 + opony #77 + plastik #40",
+    "product": "Motocykle",
+    "demand": 4,
+    "investment_price": 71000,
+    "catalog_price": 500
+  },
+  {
+    "id": 105,
+    "investment": "Fabryka traktorów",
+    "recipe": "Stal #27 + silniki #69 + hydraulika #73 + opony #77 + szyby #76",
+    "product": "Traktory",
+    "demand": 3,
+    "investment_price": 70000,
+    "catalog_price": 500
+  },
+  {
+    "id": 106,
+    "investment": "Fabryka maszyn budowlanych",
+    "recipe": "Stal #27 + silniki #69 + hydraulika #73 + koła/gąsienice #141",
+    "product": "Maszyny budowlane",
+    "demand": 2,
+    "investment_price": 66000,
+    "catalog_price": 500
+  },
+  {
+    "id": 107,
+    "investment": "Fabryka maszyn rolniczych",
+    "recipe": "Stal #27 + silniki #69 + hydraulika #73 + opony #77",
+    "product": "Maszyny rolnicze",
+    "demand": 3,
+    "investment_price": 67000,
+    "catalog_price": 500
+  },
+  {
+    "id": 108,
+    "investment": "Fabryka komputerów",
+    "recipe": "Procesory #85 + PCB #86 + pamięć #136 + ekrany #88 + obudowy #90 + zasilacze #89",
+    "product": "Komputery",
+    "demand": 8,
+    "investment_price": 79000,
+    "catalog_price": 380
+  },
+  {
+    "id": 109,
+    "investment": "Fabryka laptopów",
+    "recipe": "Procesory #85 + PCB #86 + ekrany #88 + baterie #82 + obudowy #90 + pamięć #136",
+    "product": "Laptopy",
+    "demand": 6,
+    "investment_price": 77000,
+    "catalog_price": 500
+  },
+  {
+    "id": 110,
+    "investment": "Fabryka telefonów",
+    "recipe": "Procesory #85 + ekrany #88 + baterie #82 + PCB #86 + szkło #46 + obudowy #90 + moduły #87",
+    "product": "Telefony",
+    "demand": 13,
+    "investment_price": 88000,
+    "catalog_price": 230
+  },
+  {
+    "id": 111,
+    "investment": "Fabryka tabletów",
+    "recipe": "Procesory #85 + ekrany #88 + baterie #82 + PCB #86 + szkło #46 + obudowy #90",
+    "product": "Tablety",
+    "demand": 8,
+    "investment_price": 79000,
+    "catalog_price": 380
+  },
+  {
+    "id": 112,
+    "investment": "Fabryka telewizorów",
+    "recipe": "Ekrany #88 + procesory #85 + PCB #86 + zasilacze #89 + obudowy #90",
+    "product": "Telewizory",
+    "demand": 8,
+    "investment_price": 76000,
+    "catalog_price": 380
+  },
+  {
+    "id": 113,
+    "investment": "Fabryka lodówek",
+    "recipe": "Stal #27 + plastik #40 + sprężarki #140 + szkło #46",
+    "product": "Lodówki",
+    "demand": 5,
+    "investment_price": 70000,
+    "catalog_price": 500
+  },
+  {
+    "id": 114,
+    "investment": "Fabryka pralek",
+    "recipe": "Stal #27 + plastik #40 + silniki elektryczne #70 + pompy #71",
+    "product": "Pralki",
+    "demand": 6,
+    "investment_price": 71000,
+    "catalog_price": 500
+  },
+  {
+    "id": 115,
+    "investment": "Fabryka klimatyzatorów",
+    "recipe": "Aluminium #29 + miedź #28 + sprężarki #140 + silniki elektryczne #70 + plastik #40",
+    "product": "Klimatyzatory",
+    "demand": 5,
+    "investment_price": 72000,
+    "catalog_price": 500
+  },
+  {
+    "id": 116,
+    "investment": "Fabryka robotów",
+    "recipe": "Stal #27 + silniki elektryczne #70 + procesory #85 + czujniki #137 + baterie #82",
+    "product": "Roboty",
+    "demand": 3,
+    "investment_price": 70000,
+    "catalog_price": 500
+  },
+  {
+    "id": 117,
+    "investment": "Fabryka dronów",
+    "recipe": "Aluminium #29 + silniki elektryczne #70 + procesory #85 + baterie #82 + plastik #40",
+    "product": "Drony",
+    "demand": 5,
+    "investment_price": 72000,
+    "catalog_price": 500
+  },
+  {
+    "id": 118,
+    "investment": "Fabryka serwerów",
+    "recipe": "Procesory #85 + PCB #86 + pamięć #136 + stal #27 + zasilacze #89",
+    "product": "Serwery",
+    "demand": 4,
+    "investment_price": 71000,
+    "catalog_price": 500
+  },
+  {
+    "id": 119,
+    "investment": "Fabryka routerów",
+    "recipe": "PCB #86 + procesory #85 + miedź #28 + plastik #40",
+    "product": "Routery",
+    "demand": 10,
+    "investment_price": 76000,
+    "catalog_price": 300
+  },
+  {
+    "id": 120,
+    "investment": "Fabryka paneli słonecznych",
+    "recipe": "Szkło #46 + krzem #134 + aluminium #29 + miedź #28",
+    "product": "Panele słoneczne",
+    "demand": 8,
+    "investment_price": 74000,
+    "catalog_price": 380
+  },
+  {
+    "id": 121,
+    "investment": "Fabryka turbin wiatrowych",
+    "recipe": "Stal #27 + aluminium #29 + miedź #28 + generatory #92",
+    "product": "Turbiny wiatrowe",
+    "demand": 2,
+    "investment_price": 66000,
+    "catalog_price": 500
+  },
+  {
+    "id": 122,
+    "investment": "Fabryka sprzętu medycznego",
+    "recipe": "Stal #27 + plastik #40 + szkło #46 + procesory #85",
+    "product": "Sprzęt medyczny",
+    "demand": 5,
+    "investment_price": 70000,
+    "catalog_price": 500
+  },
+  {
+    "id": 123,
+    "investment": "Fabryka aparatury laboratoryjnej",
+    "recipe": "Szkło #46 + stal #27 + plastik #40",
+    "product": "Aparatura laboratoryjna",
+    "demand": 3,
+    "investment_price": 64000,
+    "catalog_price": 500
+  },
+  {
+    "id": 124,
+    "investment": "Fabryka maszyn przemysłowych",
+    "recipe": "Stal #27 + silniki przemysłowe #91 + przekładnie #65 + hydraulika #73",
+    "product": "Maszyny przemysłowe",
+    "demand": 3,
+    "investment_price": 67000,
+    "catalog_price": 500
+  },
+  {
+    "id": 125,
+    "investment": "Fabryka robotów przemysłowych",
+    "recipe": "Stal #27 + silniki przemysłowe #91 + przekładnie #65 + procesory #85",
+    "product": "Roboty przemysłowe",
+    "demand": 3,
+    "investment_price": 67000,
+    "catalog_price": 500
+  },
+  {
+    "id": 126,
+    "investment": "Fabryka sprzętu telekomunikacyjnego",
+    "recipe": "Miedź #28 + PCB #86 + procesory #85",
+    "product": "Sprzęt telekomunikacyjny",
+    "demand": 4,
+    "investment_price": 66000,
+    "catalog_price": 500
+  },
+  {
+    "id": 127,
+    "investment": "Fabryka urządzeń energetycznych",
+    "recipe": "Stal #27 + miedź #28 + generatory #92 + transformatory #93",
+    "product": "Urządzenia energetyczne",
+    "demand": 3,
+    "investment_price": 67000,
+    "catalog_price": 500
+  },
+  {
+    "id": 128,
+    "investment": "Fabryka elektronarzędzi",
+    "recipe": "Stal #27 + plastik #40 + silniki elektryczne #70 + baterie #82",
+    "product": "Elektronarzędzia",
+    "demand": 8,
+    "investment_price": 74000,
+    "catalog_price": 380
+  },
+  {
+    "id": 129,
+    "investment": "Fabryka sprzętu AGD",
+    "recipe": "Stal #27 + plastik #40 + silniki elektryczne #70 + szkło #46",
+    "product": "Sprzęt AGD",
+    "demand": 10,
+    "investment_price": 76000,
+    "catalog_price": 300
+  },
+  {
+    "id": 130,
+    "investment": "Fabryka zaawansowanych maszyn",
+    "recipe": "Stal #27 + aluminium #29 + silniki przemysłowe #91 + przekładnie #65 + procesory #85 + hydraulika #73",
+    "product": "Zaawansowane maszyny",
+    "demand": 2,
+    "investment_price": 71000,
+    "catalog_price": 500
+  },
+  {
+    "id": 131,
+    "investment": "Gospodarstwo leśne",
+    "recipe": "",
+    "product": "Drewno",
+    "demand": 0,
+    "investment_price": 7000,
+    "catalog_price": 200
+  },
+  {
+    "id": 132,
+    "investment": "Papiernia",
+    "recipe": "Drewno #131",
+    "product": "Papier",
+    "demand": 10,
+    "investment_price": 24000,
+    "catalog_price": 180
+  },
+  {
+    "id": 133,
+    "investment": "Kopalnia minerałów przemysłowych",
+    "recipe": "",
+    "product": "Minerały przemysłowe",
+    "demand": 0,
+    "investment_price": 8000,
+    "catalog_price": 220
+  },
+  {
+    "id": 134,
+    "investment": "Zakład krzemu",
+    "recipe": "Piasek #23 + koks #43",
+    "product": "Krzem",
+    "demand": 7,
+    "investment_price": 23000,
+    "catalog_price": 260
+  },
+  {
+    "id": 135,
+    "investment": "Fabryka magnesów",
+    "recipe": "Żelazo #26 + kobalt oczyszczony #35",
+    "product": "Magnesy",
+    "demand": 6,
+    "investment_price": 22000,
+    "catalog_price": 300
+  },
+  {
+    "id": 136,
+    "investment": "Fabryka pamięci komputerowej",
+    "recipe": "Półprzewodniki #84 + miedź #28",
+    "product": "Pamięć",
+    "demand": 6,
+    "investment_price": 22000,
+    "catalog_price": 300
+  },
+  {
+    "id": 137,
+    "investment": "Fabryka czujników",
+    "recipe": "Półprzewodniki #84 + podzespoły elektryczne #81 + miedź #28",
+    "product": "Czujniki",
+    "demand": 5,
+    "investment_price": 37000,
+    "catalog_price": 480
+  },
+  {
+    "id": 139,
+    "investment": "Fabryka foteli",
+    "recipe": "Stal #27 + plastik #40 + włókna syntetyczne #42",
+    "product": "Fotele",
+    "demand": 8,
+    "investment_price": 26000,
+    "catalog_price": 220
+  },
+  {
+    "id": 140,
+    "investment": "Fabryka sprężarek",
+    "recipe": "Stal #27 + miedź #28 + silniki elektryczne #70",
+    "product": "Sprężarki",
+    "demand": 4,
+    "investment_price": 23000,
+    "catalog_price": 450
+  },
+  {
+    "id": 141,
+    "investment": "Zakład kół i gąsienic",
+    "recipe": "Stal #27 + guma syntetyczna #41",
+    "product": "Koła i gąsienice",
+    "demand": 6,
+    "investment_price": 22000,
+    "catalog_price": 300
+  }
+]

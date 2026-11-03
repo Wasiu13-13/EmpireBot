@@ -1,0 +1,5 @@
+.env
+*.db
+*.tar.gz
+__pycache__/
+*.pyc

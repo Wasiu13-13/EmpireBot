@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Blokada morska",
+    "effects": "Wszystkie towary skupowane przez bota −50%",
+    "next": "Kryzys humanitarny +15 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 2,
+    "name": "Kryzys humanitarny",
+    "effects": "Sprzęt medyczny +50%, aparatura laboratoryjna +30%, autobusy +20%, telefony +10%",
+    "next": "Epidemia +15 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 3,
+    "name": "Strajk portowy",
+    "effects": "Paliwa +15%, ciężarówki +15%, kable +10%",
+    "next": "Zator logistyczny +15 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 4,
+    "name": "Zator logistyczny",
+    "effects": "Wszystkie skupowane towary −20%, paliwa +25%, ciężarówki +20%",
+    "next": "Przywrócenie szlaków +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 5,
+    "name": "Zamknięcie granic",
+    "effects": "Ciężarówki +15%, paliwa +15%, maszyny przemysłowe +10%",
+    "next": "Sankcje handlowe +15 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 6,
+    "name": "Sankcje handlowe",
+    "effects": "Stal +20%, aluminium +20%, miedź +20%, maszyny przemysłowe +15%",
+    "next": "Napięcia geopolityczne +15 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 7,
+    "name": "Umowa o wolnym handlu",
+    "effects": "Samochody +15%, sprzęt elektroniczny +15%, maszyny przemysłowe +10%",
+    "next": "Boom logistyczny +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 8,
+    "name": "Rozbudowa portów",
+    "effects": "Stal +15%, maszyny budowlane +20%, ciężarówki +10%",
+    "next": "Boom logistyczny +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 9,
+    "name": "Przywrócenie szlaków morskich",
+    "effects": "Wszystkie skupowane towary +20%",
+    "next": "Blokada morska −10 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 10,
+    "name": "Boom logistyczny",
+    "effects": "Ciężarówki +25%, opony +20%, paliwa +10%",
+    "next": "Strajk portowy +5 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 11,
+    "name": "Recesja",
+    "effects": "Pojazdy −25%, sprzęt elektroniczny −20%, maszyny przemysłowe −20%",
+    "next": "Ożywienie gospodarcze +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 12,
+    "name": "Ożywienie gospodarcze",
+    "effects": "Samochody +20%, maszyny budowlane +15%, maszyny przemysłowe +20%",
+    "next": "Boom inwestycyjny +10 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 13,
+    "name": "Wysoka inflacja",
+    "effects": "Sprzęt elektroniczny −15%, pojazdy −10%, maszyny budowlane −15%",
+    "next": "Podwyżka stóp +15 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 14,
+    "name": "Boom kredytowy",
+    "effects": "Pojazdy +20%, maszyny budowlane +15%, komputery +10%",
+    "next": "Ożywienie gospodarcze +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 15,
+    "name": "Podwyżka stóp procentowych",
+    "effects": "Pojazdy −15%, maszyny przemysłowe −20%, sprzęt elektroniczny −10%",
+    "next": "Recesja +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 16,
+    "name": "Boom konsumencki",
+    "effects": "Telefony +20%, telewizory +15%, sprzęt AGD +20%",
+    "next": "Premiera elektroniki +10 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 17,
+    "name": "Premiera nowej elektroniki",
+    "effects": "Telefony +25%, komputery +20%, tablety +20%",
+    "next": "Boom konsumencki +5 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 18,
+    "name": "Program inwestycji publicznych",
+    "effects": "Cement +25%, stal +20%, maszyny budowlane +25%, generatory +15%",
+    "next": "Urbanizacja +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 19,
+    "name": "Boom inwestycyjny firm",
+    "effects": "Maszyny przemysłowe +25%, roboty przemysłowe +20%, serwery +15%, silniki przemysłowe +10%",
+    "next": "Fala automatyzacji +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 20,
+    "name": "Ulgi podatkowe",
+    "effects": "Pojazdy +10%, sprzęt AGD +15%, komputery +10%",
+    "next": "Boom kredytowy +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 21,
+    "name": "Kryzys naftowy",
+    "effects": "Paliwa +30%, plastik +15%, opony +10%",
+    "next": "Napięcia geopolityczne +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 22,
+    "name": "Nadwyżka ropy",
+    "effects": "Paliwa +20%, plastik +10%, opony +10%",
+    "next": "Boom kredytowy +10 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 23,
+    "name": "Niedobór energii",
+    "effects": "Energia elektryczna +35%, generatory +30%, baterie +20%",
+    "next": "Awaria sieci +15 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 24,
+    "name": "Awaria sieci energetycznej",
+    "effects": "Energia elektryczna −50%, generatory +40%, transformatory +30%, urządzenia energetyczne +25%",
+    "next": "Zielona transformacja +15 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 25,
+    "name": "Zielona transformacja",
+    "effects": "Panele słoneczne +35%, turbiny wiatrowe +30%, baterie +20%, transformatory +10%",
+    "next": "Przełom w bateriach +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 26,
+    "name": "Niedobór półprzewodników",
+    "effects": "Półprzewodniki +30%, procesory +25%, komputery/telefony/tablety −20%",
+    "next": "Boom inwestycyjny firm +15 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 27,
+    "name": "Fala automatyzacji",
+    "effects": "Roboty +30%, roboty przemysłowe +30%, systemy sterowania +20%, czujniki +25%",
+    "next": "Niedobór pracowników +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 28,
+    "name": "Przestój fabryk",
+    "effects": "Samochody −20%, sprzęt AGD −15%, maszyny przemysłowe −15%, elementy metalowe +10%",
+    "next": "Odbudowa zapasów +15 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 29,
+    "name": "Odbudowa zapasów firm",
+    "effects": "Stal +20%, elementy metalowe +15%, maszyny przemysłowe +20%",
+    "next": "Ożywienie gospodarcze +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 30,
+    "name": "Przełom w bateriach",
+    "effects": "Baterie +30%, silniki elektryczne +15%, samochody +20%, drony +15%",
+    "next": "Zielona transformacja +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 31,
+    "name": "Epidemia",
+    "effects": "Sprzęt medyczny +40%, aparatura laboratoryjna +30%, serwery +10%, telefony +10%",
+    "next": "Kryzys humanitarny +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 32,
+    "name": "Starzenie się społeczeństwa",
+    "effects": "Sprzęt medyczny +20%, autobusy +10%, sprzęt AGD +10%",
+    "next": "Modernizacja gospodarstw +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 33,
+    "name": "Urbanizacja",
+    "effects": "Autobusy +25%, cement +20%, cegły +15%, maszyny budowlane +20%",
+    "next": "Program inwestycji publicznych +10 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 34,
+    "name": "Praca zdalna",
+    "effects": "Laptopy +30%, komputery +20%, routery +25%, serwery +15%",
+    "next": "Cyfryzacja szkół +10 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 35,
+    "name": "Sezon turystyczny",
+    "effects": "Autobusy +20%, samochody +10%, paliwa +15%, telefony +10%",
+    "next": "Boom logistyczny +10 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 36,
+    "name": "Cyfryzacja szkół",
+    "effects": "Komputery +25%, tablety +25%, serwery +15%, routery +15%",
+    "next": "Praca zdalna +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 37,
+    "name": "Niedobór pracowników",
+    "effects": "Roboty +25%, roboty przemysłowe +30%, maszyny rolnicze +15%",
+    "next": "Fala automatyzacji +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 38,
+    "name": "Niepokoje społeczne",
+    "effects": "Autobusy +10%, sprzęt medyczny +15%, generatory +10%",
+    "next": "Kryzys humanitarny +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 39,
+    "name": "Modernizacja gospodarstw domowych",
+    "effects": "Sprzęt AGD +25%, telewizory +10%, panele słoneczne +10%, meble +15%",
+    "next": "Boom konsumencki +10 pp",
+    "base_chance": 4
+  },
+  {
+    "id": 40,
+    "name": "Spadek zaufania konsumentów",
+    "effects": "Samochody −20%, telewizory −15%, sprzęt AGD −20%, komputery −10%",
+    "next": "Recesja +10 pp",
+    "base_chance": 2
+  },
+  {
+    "id": 41,
+    "name": "Trzęsienie ziemi",
+    "effects": "Cement +35%, maszyny budowlane +30%, sprzęt medyczny +20%, stal +15%",
+    "next": "Kryzys humanitarny +15 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 42,
+    "name": "Powódź",
+    "effects": "Pompy +30%, maszyny budowlane +25%, generatory +20%, transformatory +15%",
+    "next": "Awaria sieci +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 43,
+    "name": "Susza",
+    "effects": "Maszyny rolnicze +20%, pompy +25%, nawozy +20%",
+    "next": "Kryzys humanitarny +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 44,
+    "name": "Fala upałów",
+    "effects": "Klimatyzatory +40%, energia elektryczna +20%, generatory +15%, baterie +10%",
+    "next": "Niedobór energii +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 45,
+    "name": "Silna wichura",
+    "effects": "Generatory +25%, transformatory +25%, maszyny budowlane +15%, szyby +15%",
+    "next": "Awaria sieci +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 46,
+    "name": "Pożary lasów",
+    "effects": "Sprzęt medyczny +15%, maszyny budowlane +20%, generatory +20%, sprzęt telekomunikacyjny +10%",
+    "next": "Kryzys humanitarny +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 47,
+    "name": "Fala mrozów",
+    "effects": "Paliwa +25%, energia elektryczna +20%, izolacja +20%, generatory +10%",
+    "next": "Niedobór energii +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 48,
+    "name": "Silne zanieczyszczenie powietrza",
+    "effects": "Sprzęt medyczny +20%, aparatura laboratoryjna +15%, panele słoneczne +15%",
+    "next": "Zielona transformacja +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 49,
+    "name": "Atak cybernetyczny",
+    "effects": "Serwery +30%, routery +25%, systemy sterowania +25%, procesory +10%",
+    "next": "Boom inwestycyjny firm +10 pp",
+    "base_chance": 1
+  },
+  {
+    "id": 50,
+    "name": "Napięcia geopolityczne",
+    "effects": "Paliwa +20%, stal +20%, aluminium +15%, generatory +15%",
+    "next": "Blokada morska +10 pp",
+    "base_chance": 1
+  }
+]
